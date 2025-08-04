@@ -22,6 +22,7 @@ Ideal para pequenas empresas que desejam automatizar processos comerciais de for
 - [x] CRUD de Clientes
 - [x] CRUD de Pedidos  
 - [x] Autenticação com JWT
+- [x] Listagem de pedidos por cliente
 - [x] Interface de navegação DRF
 - [x] Organização com Serializers
 
